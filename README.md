@@ -13,7 +13,7 @@ Este vídeo de aproximadamente 2 minutos apresenta uma visão rápida e emociona
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. Com o “LOVO” transformei o texto para voz. O "D-ID" foi essencial para criar um avatar virtual e incluir a voz sintetizada. Finalizei com o "VEED" para edição do vídeo.
 
 ## 🚀 Resultados
-O vídeo é uma breve história sobre a origem do Natal e o relato sobre o nascimento de Jesus que sempre emociona a todos o Natal.
+O vídeo é uma breve história sobre a origem do Natal e o relato sobre o nascimento de Jesus que sempre emociona nessa época mágica do ano.
 
 [LINK PARA O VÍDEO AQUI]()
 
