@@ -10,7 +10,7 @@ Este vídeo de aproximadamente 2 minutos apresenta uma visão rápida e emociona
 - IA Generativa **[VEED](https://www.veed.io)** para edição do vídeo.
   
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. Com o “LOVO” transformei o texto para voz e finalizei com o "D-ID" foi essencial para criar um avatar virtual e incluir a voz sintetizada.
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. Com o “LOVO” transformei o texto para voz. O "D-ID" foi essencial para criar um avatar virtual e incluir a voz sintetizada. Finalizei com o "VEED" para edição do vídeo.
 
 ## 🚀 Resultados
 O vídeo é uma breve história sobre a origem do Natal e o relato sobre o nascimento de Jesus que sempre emociona a todos o Natal.
