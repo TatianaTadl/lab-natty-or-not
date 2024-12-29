@@ -18,4 +18,4 @@ O vídeo é uma breve história sobre a origem do Natal e o relato sobre o nasci
 [LINK PARA O VÍDEO AQUI]()
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar a mais importante história da humanidade, utilizando as IAs Generativas para criar um breve e emocionante relato.
+Este projeto foi uma experiência fantástica em contar a mais importante história da humanidade, utilizando as IAs Generativas para criar um breve e emocionante relato.
