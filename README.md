@@ -5,7 +5,7 @@ Este vídeo de aproximadamente 2 minutos apresenta uma visão rápida e emociona
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[LOVO](https:// www.lovo.ai)** para sintetização de voz;
+- IA Generativa **[LOVO](https://www.lovo.ai)** para sintetização de voz;
 - IA Generativa **[D-ID](https://www.d-id.com)** para geração de avatar virtual, incluir voz e vídeo;
 - IA Generativa **[VEED](https://www.veed.io)** para edição do vídeo.
   
